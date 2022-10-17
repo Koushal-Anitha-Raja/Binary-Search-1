@@ -1,3 +1,6 @@
+#TC: log(log mn)  
+#SC: O(1)
+
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         #finding the length of matrix row
